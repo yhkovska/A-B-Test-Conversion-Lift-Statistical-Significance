@@ -126,3 +126,7 @@ This highlights the importance of combining effect size with statistical signifi
 Google Colab notebook:
 
 https://colab.research.google.com/drive/1XhRWjvcnrimom9rQSFlwLuI_M4FMg8Px?usp=sharing
+
+Tableau Dashboard:
+
+https://public.tableau.com/app/profile/yaryna.rachkovska/viz/ABTestConversionLiftStatisticalSignificance/ABTestOverview
